@@ -1,0 +1,53 @@
+*{margin: 0;
+    padding: 0;}
+h1{
+        
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #c0b283;
+ }
+li{ text-align: left;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        color: #c0b283;
+  }
+.navBarDiseño{
+    display: inline;
+    color: #dcd0c0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    justify-content: center;
+   }
+h2{
+      text-align: left;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 200;
+      color: #c0b283;
+     }
+h3{
+        text-align: left;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 200;
+        color: #c0b283;
+       }
+
+p{
+    text-align: justify;
+    color: #373737; 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+ }
+ 
+footer{
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #c0b283;
+    height: 500px;
+  }
+  .contenedorContacto{
+      margin: 0;
+      padding: 0;
+      
+  }
